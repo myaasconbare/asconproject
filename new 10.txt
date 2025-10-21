@@ -1,0 +1,21 @@
+domain: asconunited.com
+username: asconunited
+password: n5Ee1BnkhkVa5CKsvrp0
+
+
+database
+password: 3ndoenRhaYwBi2aSHZy9
+user: ascon
+database: ascon
+
+
+admin
+TOOTHandNAILS9%9
+
+
+SSH login
+ascon
+shXYbtyNoEUc6S4Ugx02
+
+asconn
+ClKh4nMAqgH5nu1ok09a
