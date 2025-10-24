@@ -8,7 +8,7 @@
             <div class="col-lg-7">
                 <div class="banner-content">
                     <h1>
-                        The Future of Crypto Pair Trading Has Arrived..
+                        The Future of Crypto Pair Trading Has Arrived...
                     </h1>
                     <p>
                         AI-optimized, quantum-enhanced, and ultra-fast. Trade cryptocurrency pairs with next-generation precision and decentralized intelligence.
